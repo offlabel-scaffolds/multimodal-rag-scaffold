@@ -42,7 +42,7 @@ docker build -t ${scaffold.name} .
 - CLIP
 - Python
 
-## ️ Architecture
+## Architecture
 
 ```
 multimodal-rag-scaffold/
