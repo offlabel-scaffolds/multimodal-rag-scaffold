@@ -1,0 +1,36 @@
+{
+  "name": "multimodal-rag-scaffold",
+  "description": "Multimodal RAG with vision, audio, and video processing capabilities",
+  "tech": [
+    "LangChain",
+    "OpenAI Vision",
+    "Whisper",
+    "CLIP",
+    "Python"
+  ],
+  "categories": [
+    "ai-ml",
+    "content"
+  ],
+  "usecases": [
+    "ai-ml",
+    "content"
+  ],
+  "maturity": "beta",
+  "complexity": "advanced",
+  "features": [
+    "multimodal",
+    "vision",
+    "audio",
+    "video",
+    "rag",
+    "docker"
+  ],
+  "hasDemo": true,
+  "hasCLI": false,
+  "securityFeatures": [
+    "input-validation",
+    "file-validation"
+  ],
+  "lastUpdated": "2025-01-03"
+}
